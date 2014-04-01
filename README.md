@@ -1,4 +1,8 @@
 GetSusie
 ========
 
-Shell script - Retrieve automaticly Epitech English teacher Appointement (Obsolete) - FINISHED
+Shell script - Retrieve automatically Epitech English teacher's meetings (Obsolete) - FINISHED
+
+I'm keeping it as a base to next scripts i would do.
+Basicly parsing Web-page after logging in to retrieve info and compare if new info came.
+Then show results using xmessage for instance.
